@@ -1,0 +1,7 @@
+2317418496.717931: type=REPLY, serial=647440519, status=0, size=0, null=1
+2317418496.4248030: type=REPLY, serial=647440520, status=0, size=0, null=1
+2317418496.796898: type=REPLY, serial=647440521, status=0, size=0, null=1
+2317418496.1039910: type=VALUE, serial=647440521, status=0, size=1, null=0, payload=[2]
+2317418496.177264: type=REPLY, serial=647440522, status=0, size=0, null=1
+2317418496.1741085: type=VALUE, serial=647440522, status=0, size=1, null=0, payload=[3]
+2317418496.2252712: type=REPLY, serial=647440523, status=1, size=0, null=1

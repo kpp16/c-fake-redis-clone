@@ -1,0 +1,5 @@
+put 1 2
+put 2 3
+get 1
+get 2
+commit

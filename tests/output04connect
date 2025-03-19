@@ -1,0 +1,9 @@
+2384527360.3758325: type=REPLY, serial=1192210645, status=0, size=0, null=1
+2384527360.4175920: type=VALUE, serial=1192210645, status=0, size=1, null=0, payload=[2]
+2384527360.3038377: type=REPLY, serial=1192210646, status=0, size=0, null=1
+2384527360.2490365: type=VALUE, serial=1192210646, status=0, size=1, null=0, payload=[3]
+2384527360.4136582: type=REPLY, serial=1192210647, status=0, size=0, null=1
+2384527360.1263419: type=VALUE, serial=1192210647, status=0, size=1, null=0, payload=[4]
+2384527360.2193324: type=REPLY, serial=1192210648, status=0, size=0, null=1
+2384527360.1554874: type=VALUE, serial=1192210648, status=0, size=1, null=0, payload=[5]
+2384527360.2795706: type=REPLY, serial=1192210649, status=1, size=0, null=1

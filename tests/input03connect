@@ -1,0 +1,5 @@
+put 3 4
+put 4 5
+get 3
+get 4
+commit
